@@ -1,0 +1,15 @@
+C:\Users\drewm\source\repos\MethodOverloadingExercise\MethodOverloadingExercise\obj\Debug\net6.0\MethodOverloadingExercise.csproj.AssemblyReference.cache
+C:\Users\drewm\source\repos\MethodOverloadingExercise\MethodOverloadingExercise\obj\Debug\net6.0\MethodOverloadingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drewm\source\repos\MethodOverloadingExercise\MethodOverloadingExercise\obj\Debug\net6.0\MethodOverloadingExercise.AssemblyInfoInputs.cache
+C:\Users\drewm\source\repos\MethodOverloadingExercise\MethodOverloadingExercise\obj\Debug\net6.0\MethodOverloadingExercise.AssemblyInfo.cs
+C:\Users\drewm\source\repos\MethodOverloadingExercise\MethodOverloadingExercise\obj\Debug\net6.0\MethodOverloadingExercise.csproj.CoreCompileInputs.cache
+C:\Users\drewm\source\repos\MethodOverloadingExercise\MethodOverloadingExercise\bin\Debug\net6.0\MethodOverloadingExercise.exe
+C:\Users\drewm\source\repos\MethodOverloadingExercise\MethodOverloadingExercise\bin\Debug\net6.0\MethodOverloadingExercise.deps.json
+C:\Users\drewm\source\repos\MethodOverloadingExercise\MethodOverloadingExercise\bin\Debug\net6.0\MethodOverloadingExercise.runtimeconfig.json
+C:\Users\drewm\source\repos\MethodOverloadingExercise\MethodOverloadingExercise\bin\Debug\net6.0\MethodOverloadingExercise.dll
+C:\Users\drewm\source\repos\MethodOverloadingExercise\MethodOverloadingExercise\bin\Debug\net6.0\MethodOverloadingExercise.pdb
+C:\Users\drewm\source\repos\MethodOverloadingExercise\MethodOverloadingExercise\obj\Debug\net6.0\MethodOverloadingExercise.dll
+C:\Users\drewm\source\repos\MethodOverloadingExercise\MethodOverloadingExercise\obj\Debug\net6.0\refint\MethodOverloadingExercise.dll
+C:\Users\drewm\source\repos\MethodOverloadingExercise\MethodOverloadingExercise\obj\Debug\net6.0\MethodOverloadingExercise.pdb
+C:\Users\drewm\source\repos\MethodOverloadingExercise\MethodOverloadingExercise\obj\Debug\net6.0\MethodOverloadingExercise.genruntimeconfig.cache
+C:\Users\drewm\source\repos\MethodOverloadingExercise\MethodOverloadingExercise\obj\Debug\net6.0\ref\MethodOverloadingExercise.dll
